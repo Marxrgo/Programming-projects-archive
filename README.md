@@ -1,2 +1,2 @@
-# Projects-w-Python-googleCollab
-
+# Projects-w-Python-GoogleCollab
+Learning throught fundemental projects
