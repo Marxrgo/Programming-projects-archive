@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+#Nova{
+    visibility: visible;   
+}
+
+h1{
+    background-color: lightcyan;
+    padding-left: 23%;
+    width: 384px;
+}
+
+h3{
+    margin: 10px;
+    border: 3px solid lightcyan;
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+    
+    height: 60px;
+    width: 50%;
+    
+    text-align: center;
+    align-content: center;
+}
+
+div[Class = "test"]{
+    color:red;
+}
