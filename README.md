@@ -3,5 +3,5 @@ Fun projects for learning
 TBD
 
 **HTML/CSS/Javascript**:
-- [Nova-Marvel]
-- [RPG]
+- [Nova-Marvel](./Nova-Marvel)
+- [RPG](./RPG)
