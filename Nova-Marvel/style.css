@@ -1,30 +1,35 @@
-body{
+:root {
+    --Iwidth: 650px;
+}
+
+body {
     background-color: lightblue;
-}
-#Nova{
-    visibility: visible;   
+    display: grid;
+    place-items: center;
 }
 
-h1{
+
+h1 {
     background-color: lightcyan;
-    padding-left: 23%;
-    width: 384px;
-}
-
-h3{
-    margin: 10px;
-    border: 3px solid lightcyan;
-    background-color: aquamarine;
-    border-radius: 10px;
-    
-    
-    height: 60px;
-    width: 50%;
-    
+    width: 650px;
     text-align: center;
-    align-content: center;
 }
 
-div[Class = "test"]{
-    color:red;
+div {
+    width: var(--Iwidth);
+    height: 1000px;
+}
+
+#Nova {
+    width: inherit;
+    height: inherit;
+}
+
+p {
+    background-color: aquamarine;
+    display: block;
+    width: var(--Iwidth);
+    font-size: x-large;
+    border-radius: 10px;
+    text-align: center;
 }
