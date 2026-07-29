@@ -4,4 +4,7 @@ TBD
 
 **HTML/CSS/Javascript**:
 - [Nova-Marvel](./Nova-Marvel)
-- [RPG](./RPG)
+- [Classic RPG](./RPG)
+
+**Python**:
+- [Snake game](./Snake)
