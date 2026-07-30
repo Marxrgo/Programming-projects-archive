@@ -8,3 +8,4 @@ TBD
 
 **Python**:
 - [Snake game](./Snake)
+- [Blog app (in progress)](./FlaskMicroblog)
